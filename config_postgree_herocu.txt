@@ -1,0 +1,11 @@
+postgres://zuqzzvnchcfgkf:9d27196a4d129d3c48f77a8060e84348dfa42dac6713a1ac39229a639bf3f26b@ec2-54-211-210-149.compute-1.amazonaws.com:5432/d6dtu066ps7qaj
+
+
+user: zuqzzvnchcfgkf
+
+password: 9d27196a4d129d3c48f77a8060e84348dfa42dac6713a1ac39229a639bf3f26b
+
+server: ec2-54-211-210-149.compute-1.amazonaws.com
+
+port: 5432
+database: d6dtu066ps7qaj
